@@ -1,0 +1,48 @@
+/eco-f7-CMS/node_modules
+/eco-f7-CMS/public/hot
+/eco-f7-CMS/public/storage
+/eco-f7-CMS/public/categories/images/*.jpg
+/eco-f7-CMS/public/categories/images/*.png
+/eco-f7-CMS/public/categories/images/*.svg
+/eco-f7-CMS/public/products/images/gallery/*.jpg
+/eco-f7-CMS/public/products/images/gallery/*.png
+/eco-f7-CMS/public/products/images/gallery/*.svg
+/eco-f7-CMS/public/products/images/*.jpg
+/eco-f7-CMS/public/products/images/*.png
+/eco-f7-CMS/public/products/images/*.svg
+/eco-f7-CMS/storage/*.key
+/eco-f7-CMS/vendor
+/eco-f7-CMS/.idea
+/eco-f7-CMS/.vscode
+/eco-f7-CMS/.env
+/eco-f7-CMS/.env.backup
+/eco-f7-CMS/.phpunit.result.cache
+/eco-f7-CMS/Homestead.json
+/eco-f7-CMS/Homestead.yaml
+/eco-f7-CMS/npm-debug.log
+/eco-f7-CMS/yarn-error.log
+
+# eco-f7 (SPA) files
+
+/eco-f7/.DS_Store
+/eco-f7/node_modules
+/eco-f7/dist
+
+# local env files
+/eco-f7/.env.local
+/eco-f7/.env.*.local
+
+# Log files
+/eco-f7/npm-debug.log*
+/eco-f7/yarn-debug.log*
+/eco-f7/yarn-error.log*
+/eco-f7/pnpm-debug.log*
+
+# Editor directories and files
+/eco-f7/.idea
+/eco-f7/.vscode
+/eco-f7/*.suo
+/eco-f7/*.ntvs*
+/eco-f7/*.njsproj
+/eco-f7/*.sln
+/eco-f7/*.sw?
